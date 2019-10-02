@@ -15,27 +15,30 @@ role: Associate Instructor of English
 # Organizations/Affiliations
 organizations:
 - name: University of Central Florida
-  url: ""
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Speculative Fictions, mobile computing and programmable matter.
 
 interests:
-- Speculative Fictions
-- Womanist Studies
-- Information Retrieval
+- Speculative Fiction
+- Womanist Studies & Feminist Theories
+- Magical Realism
+- American Literature
+- World Literature
+- Material Culture
 
 education:
   courses:
-  - course: MA in English Literature
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA in English
+    institution: University of Central Florida
+    year: 2001
+  - course: BA in English
+    institution: University of Central Florida
+    year: 1999
+#  - course: BSc in Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Farrah Cato is an Associate Instructor of Literature at the University of Central Florida. Her research and teaching interests include Women's Speculative Fiction, Magical Realism, Material Culture, World Literature, and American Literature, especially 19th century American Women's texts and slave narratives.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
