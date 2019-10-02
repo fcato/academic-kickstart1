@@ -74,5 +74,3 @@ user_groups:
 ---
 
 Farrah Cato is an Associate Instructor of Literature at the University of Central Florida. Her research and teaching interests include Women's Speculative Fiction, Magical Realism, Material Culture, World Literature, and American Literature, especially 19th century American Women's texts and slave narratives.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
