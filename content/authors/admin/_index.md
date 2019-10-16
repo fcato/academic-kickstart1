@@ -18,15 +18,15 @@ organizations:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Speculative Fictions, mobile computing and programmable matter.
+bio: My research interests include Speculative Texts and Material Cultures, with particular emphasis on the intersectional feminist elements of such texts.
 
 interests:
 - Speculative Fiction
 - Womanist Studies & Feminist Theories
 - Magical Realism
-- American Literature
+- American Literature, especially 19th-Century Women's Literature and Slave Narratives
 - World Literature
-- Material Culture
+- Women's Material Culture
 
 education:
   courses:
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Farrah Cato is an Associate Instructor of Literature at the University of Central Florida. Her research and teaching interests include Women's Speculative Fiction, Magical Realism, Material Culture, World Literature, and American Literature, especially 19th century American Women's texts and slave narratives.
+Farrah Cato is an Associate Instructor of English at the University of Central Florida. Her research and teaching interests include Women's Speculative Fiction, Magical Realism, Material Culture, World Literature, and American Literature, especially 19th century American Women's texts and slave narratives.
