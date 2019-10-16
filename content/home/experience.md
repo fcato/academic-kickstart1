@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "2014-08-08"
   date_end = ""
   description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
@@ -39,6 +34,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2011-08-08"
   date_end = "2014-08-08"
-  description = """Taught electronic engineering and researched semiconductor"""
+  description = """"""
 
 +++
