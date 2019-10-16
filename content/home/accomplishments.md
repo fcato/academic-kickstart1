@@ -19,33 +19,52 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "College of Arts & Humanities, University of Central Florida"
+  organization_url = ""
+  title = "Excellence in Undergraduate Teaching Award"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2016"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "University of Central Florida"
+  organization_url = ""
+  title = "Teaching Incentive Program Award"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2015"
+  date_end = ""
   description = ""
 
+[[item]]
+  organization = "Online Schools"
+  organization_url = ""
+  title = "Top 20 Latin and Hispanic Professors in Florida"
+  url = ""
+  certificate_url = ""
+  date_start = "2012"
+  date_end = ""
+  description = ""
+
+  [[item]]
+    organization = "University of Central Florida"
+    organization_url = ""
+    title = "Teaching Incentive Program Award"
+    url = ""
+    certificate_url = ""
+    date_start = "2010"
+    date_end = ""
+    description = ""
+
+    [[item]]
+      organization = "University of Central Florida"
+      organization_url = ""
+      title = "Excellence in Undergraduate Teaching Award"
+      url = ""
+      certificate_url = ""
+      date_start = "2010"
+      date_end = ""
+      description = ""
 +++
