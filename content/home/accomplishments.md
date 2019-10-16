@@ -59,7 +59,7 @@ date_format = "Jan 2006"
     description = ""
 
     [[item]]
-      organization = "University of Central Florida"
+      organization = "College of Arts & Humanities, University of Central Florida"
       organization_url = ""
       title = "Excellence in Undergraduate Teaching Award"
       url = ""
