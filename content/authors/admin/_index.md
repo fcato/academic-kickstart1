@@ -32,10 +32,10 @@ education:
   courses:
   - course: MA in English
     institution: University of Central Florida
-    year: 2001
+    year: June 2001
   - course: BA in English
     institution: University of Central Florida
-    year: 1999
+    year: May 1999
 #  - course: BSc in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  year: 2008
