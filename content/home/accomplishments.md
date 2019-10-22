@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Excellence in Undergraduate Teaching Award"
   url = ""
   certificate_url = ""
-  date_start = 2016-04-01"
+  date_start = "2016-04-01"
   date_end = ""
   description = ""
 
@@ -66,6 +66,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2010-04-01"
   date_end = ""
-  description = """"""
+  description = ""
 
 +++
