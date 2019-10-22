@@ -32,10 +32,10 @@ education:
   courses:
   - course: MA in English
     institution: University of Central Florida
-    year: June 2001
+    year: 2001
   - course: BA in English
     institution: University of Central Florida
-    year: May 1999
+    year: 1999
 #  - course: BSc in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  year: 2008
@@ -48,15 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto: farrah.cato@ucf.edu'  # For a direct email link, use "mailto:test@example.org".
-- # icon: twitter
-  # icon_pack: fab
-  # link: https://twitter.com/GeorgeCushen
-- # icon: google-scholar
-  # icon_pack: ai
-  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- # icon: github
-  # icon_pack: fab
-  # link: https://github.com/gcushen
+-  icon: twitter
+   icon_pack: fab
+   link: https://twitter.com/GeorgeCushen
+-  icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+-  icon: github
+   icon_pack: fab
+   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
