@@ -26,4 +26,10 @@ subtitle = ""
     name = "git"
     description = "60%"
 
+    [[feature]]
+      icon = "markdown"
+      icon_pack = "fab"
+      name = "markdown"
+      description = "60%"
+
 +++
