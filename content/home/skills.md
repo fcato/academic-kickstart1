@@ -20,6 +20,10 @@ subtitle = ""
   name = "Zotero"
   description = "100%"
 
-
+  [[feature]]
+    icon = "git"
+    icon_pack = "fab"
+    name = "git"
+    description = "60%"
 
 +++
