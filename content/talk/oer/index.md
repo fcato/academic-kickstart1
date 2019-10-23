@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Oer"
+title: "Open Educational Resources: Lessons Learned from UCF Faculty"
 event:
 event_url:
-location:
+location: Orlando
 address:
   street:
   city:
@@ -16,21 +16,21 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-10-22T13:34:29-04:00
-date_end: 2019-10-22T13:34:29-04:00
+date: 2019-05-07T10:00:00-11:15:00
+#date_end: 2019-05-07T10:00:00-11:15:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-10-22T13:34:29-04:00
 
-authors: []
+authors: [Cato, F; DeNoyelles, A; Williams, L]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
