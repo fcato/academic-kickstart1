@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Open Educational Resources: Lessons Learned from UCF Faculty"
+title: "Professional Integration in the Classroom"
 event: UCF Summer Faculty Development Conference
 event_url:
 location: Orlando
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-05-07T10:00:00-11:15:00
-#date_end: 2019-05-07T10:00:00-11:15:00
+date: 2017-05-09T11:15:00-12:15
+#date_end: 2019-10-23T14:29:32-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-22T13:34:29-04:00
+publishDate: 2019-10-23T14:29:32-04:00
 
-authors: [Cato, F; DeNoyelles, A; Williams, L.]
+authors: [Angley, P; Cato, F; Hohenleitner, K.]
 tags: []
 
 # Is this a featured talk? (true/false)
