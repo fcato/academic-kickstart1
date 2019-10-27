@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Extending Boundaries for Providing Feedback in Large Classrooms: Technology as Fulcrum"
-event: Sloan-Consortium International Conference on Online Learning
+#title: "Extending Boundaries for Providing Feedback in Large Classrooms: Technology as Fulcrum"
+#event: Sloan-Consortium International Conference on Online Learning
 event_url:
-location: Orlando
+#location: Orlando
 address:
   street:
   city:
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2011-11-10T12:00:00-13:00
+#date: 2011-11-10T12:00:00-13:00
 #date_end: 2019-10-23T14:44:18-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-23T14:44:18-04:00
+#publishDate: 2019-10-23T14:44:18-04:00
 
-authors: [Bradford, G; Cato, F.]
+#authors: [Bradford, G; Cato, F.]
 tags: []
 
 # Is this a featured talk? (true/false)
