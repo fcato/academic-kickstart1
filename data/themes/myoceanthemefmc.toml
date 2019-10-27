@@ -5,7 +5,7 @@ name = "myoceanthemefmc"
 light = true
 
 # Primary
-primary = "#74AFCF"
+primary = "#0A457D"
 
 # Menu
 menu_primary = "#639FC9" # 500
