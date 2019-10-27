@@ -14,7 +14,7 @@ menu_text_active = "#eeff8c" # A100
 menu_title = "#fff"
 
 # Home sections
-home_section_odd = "rgb(240, 245, 247)"
-home_section_even = "rgb(240, 245, 247)"
+home_section_odd = "rgb(255, 253, 240)"
+home_section_even = "rgb(255, 253, 240)"
 
 font = "Rose"
