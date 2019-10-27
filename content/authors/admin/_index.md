@@ -24,8 +24,7 @@ interests:
 - Speculative Fiction
 - Womanist Studies & Feminist Theories
 - Magical Realism
-- American Literature, especially 19th-Century Women's Literature and Slave Narratives
-- World Literature
+- American and World Literatures
 - Women's Material Culture
 
 education:
