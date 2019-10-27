@@ -5,12 +5,12 @@ name = "myoceanthemefmc"
 light = true
 
 # Primary
-primary = "#05780b"
+primary = "#055b78"
 
 # Menu
 menu_primary = "#74AFCF" # 500
 menu_text = "#fff"
-menu_text_active = "#8c9eff" # A100
+menu_text_active = "#eeff8c" # A100
 menu_title = "#fff"
 
 # Home sections
