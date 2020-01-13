@@ -26,6 +26,7 @@ interests:
 - Magical Realism
 - American and World Literatures
 - Women's Material Culture
+- Digital Humanities
 
 education:
   courses:
