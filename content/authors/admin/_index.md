@@ -24,8 +24,9 @@ interests:
 - Speculative Fiction
 - Womanist Studies & Feminist Theories
 - Magical Realism
+- Women's Material Culture
+- Technologies of Resistance and Disobedience
 - American and World Literatures
-- Women's Material Culture as Technologies of Resistance
 - Digital Humanities
 
 education:
