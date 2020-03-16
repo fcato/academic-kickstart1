@@ -25,7 +25,7 @@ interests:
 - Womanist Studies & Feminist Theories
 - Magical Realism
 - American and World Literatures
-- Women's Material Culture
+- Women's Material Culture as Technologies of Resistance
 - Digital Humanities
 
 education:
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Farrah Cato is an Associate Instructor of English at the University of Central Florida. Her research and teaching interests include Women's Speculative Fiction, Magical Realism, Material Culture, World Literature, and American Literature, especially 19th-century women's texts and slave narratives.
+Farrah Cato is an Associate Instructor of English at the University of Central Florida. Her research and teaching interests include Women's Speculative Fictions, Magical Realism, and Women's Material Cultures as Technologies of Resistance.
