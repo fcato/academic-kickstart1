@@ -56,7 +56,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: files/CatoCV2019.pdf
+  link: files/Cato CV updated June 2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
