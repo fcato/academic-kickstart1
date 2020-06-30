@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Instructor of English
+role: Senior Instructor of English
 
 # Organizations/Affiliations
 organizations:
