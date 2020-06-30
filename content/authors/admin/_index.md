@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Farrah Cato is an Associate Instructor of English at the University of Central Florida. Her research and teaching interests include Women's Speculative Fictions, Magical Realism, and Women's Material Cultures as Technologies of Resistance.
+Farrah Cato is a Senior Instructor of English at the University of Central Florida. Her research and teaching interests include Women's Speculative Fictions, Magical Realism, and Women's Material Cultures as Technologies of Resistance.
